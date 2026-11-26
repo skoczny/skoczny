@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Kacper
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-skoneczny)
-[![Email](https://img.shields.io/badge/Email-kacper.skoneczny%40o2.pl-D14836)](mailto:kacper.skoneczny@o2.pl)
 
 I'm a **Software Engineer** based in Warsaw, focused on full-stack web development with React, TypeScript, Node.js and Python (FastAPI) on PostgreSQL. I hold a Bachelor of Engineering (BEng) in Computer Science from WSB Merito University and I'm currently working toward my MSc.
 
